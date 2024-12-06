@@ -1,4 +1,5 @@
 # Real-Time Notification System
+**JUST FOR FUTURE REFERENCE, IMPLEMENTATION IN PROGRESS**
 
 ## Description
 This project is a **Spring Boot-based Real-Time Notification System** that leverages **WebFlux**, **Kafka**, **WebSocket**, **WebClient**, and **OAuth2** to provide secure, scalable, and reactive notifications. It integrates external services and provides real-time updates to connected clients.
@@ -34,7 +35,7 @@ This project is a **Spring Boot-based Real-Time Notification System** that lever
 
 ---
 
-## Setup and Installation (JUST FOR FUTURE REFERENCE, IMPLEMENTATION IN PROGRESS)
+## Setup and Installation
 
 ### Clone the Repository
 ```bash
